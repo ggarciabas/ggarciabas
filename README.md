@@ -6,4 +6,4 @@
 > 🌎 I’m looking to collaborate on Open Source applications.\
 > :motorcycle: I love to ride a motorcycle, especially off-road.\
 > 😊 I'm christian and a member of [Lord Riders MC](https://www.facebook.com/lordridersmc).\
-> 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ggarciabas), [Facebook](https://www.facebook.com/ggarciabas/).
+> 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ggarciabas)]
