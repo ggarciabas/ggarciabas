@@ -12,7 +12,7 @@
 
 #### Languages and tools
 
-![ggarciabas GitHub stats](https://github-readme-stats.vercel.app/api?username=ggarciabas)
+![ggarciabas GitHub stats](https://github-readme-stats.vercel.app/api?username=ggarciabas&hide_rank=true&hide_border=true&&count_private=true&include_all_commits=true&custom_title=Github%20Stats)
 <!--![ggarciabas Most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=ggarciabas)-->
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
