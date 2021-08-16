@@ -4,11 +4,12 @@
 > 🔭 I’m currently working on Bradesco as Data Scientist.\
 > 🌱 I’m currently learning Web development and improving Apache Spark skills.\
 > 🌎 I’m looking to collaborate on Open Source applications.\
-> :motorcycle: I love to ride a motorcycle, especially off-road.\
+> :motorcycle: I'm a motorcycle instructor and love to ride, especially off-road.\
 > 😊 I'm a member of [Lord Riders MC](https://www.facebook.com/lordridersmc) and Director of RANCH's project.
 
 [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ggarciabas)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ggarciabas)
+[![](https://img.shields.io/badge/ggarciabas.github.io-181717?style=for-the-badge&logo=github&logoColor=white)](http://ggarciabas.github.io/) 
 
 #### Languages and tools
 
