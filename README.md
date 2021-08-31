@@ -11,14 +11,13 @@
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ggarciabas)
 [![](https://img.shields.io/badge/ggarciabas.github.io-181717?style=for-the-badge&logo=github&logoColor=white)](http://ggarciabas.github.io/) 
 
-#### Languages and tools
-
-![ggarciabas GitHub stats](https://github-readme-stats.vercel.app/api?username=ggarciabas&hide_rank=true&hide_border=true&&count_private=true&include_all_commits=true&custom_title=Github%20Stats)
+<!--#### Languages and tools-->
+<!--![ggarciabas GitHub stats](https://github-readme-stats.vercel.app/api?username=ggarciabas&hide_rank=true&hide_border=true&&count_private=true&include_all_commits=true&custom_title=Github%20Stats)-->
 <!--![ggarciabas Most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=ggarciabas)-->
 
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<!--![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)-->
 
 <!-- Thanks to: https://github.com/iuricode/readme-template 
       to: https://github.com/alexandresanlim/Badges4-README.md-Profile
