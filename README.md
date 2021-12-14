@@ -1,7 +1,7 @@
 ### Hi there <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="30">
 
 > :school_satchel: I'm a Ph.D. in computer engineering by UTFPR, Brazil.\
-> 🔭 I’m currently working on Bradesco as Data Scientist.\
+> 🔭 I’m currently working on Bradesco as Data Engineer.\
 > 🌱 I’m currently learning Web development and improving Apache Spark skills.\
 > 🌎 I’m looking to collaborate on Open Source applications.\
 > :motorcycle: I'm a motorcycle instructor and love to ride, especially off-road.\
