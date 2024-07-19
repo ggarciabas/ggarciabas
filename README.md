@@ -5,7 +5,7 @@
 > 🌱 I’m currently learning Web development and improving Apache Spark skills.\
 > 🌎 I’m looking to collaborate on Open Source applications.\
 > :motorcycle: I'm a motorcycle instructor and love to ride, especially off-road.\
-> 😊 I'm a member of VIP of [Rancheiros MC](https://www.rancheirosmc.com.br/) and Coordinator of [Manobras Para Vida](https://mpv.rancheirosmc.com.br/).
+> 😊 I'm VIP of [Rancheiros MC](https://www.rancheirosmc.com.br/) and Coordinator of [Manobras Para Vida](https://mpv.rancheirosmc.com.br/).
 
 [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ggarciabas)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ggarciabas)
