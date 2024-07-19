@@ -2,8 +2,7 @@
 
 > :school_satchel: I'm a Ph.D. in computer engineering by UTFPR, Brazil.\
 > 🔭 I'm currently with Mercado Livre as Sr. Data Science Engineer.\
-> 🌱 I’m currently learning Web development and improving Apache Spark skills.\
-> 🌎 I’m looking to collaborate on Open Source applications.\
+> 🌱 I’m currently learning Monitoring skills.\
 > :motorcycle: I'm a motorcycle instructor and love to ride, especially off-road.\
 > 😊 I'm VIP of [Rancheiros MC](https://www.rancheirosmc.com.br/) and Coordinator of [Manobras Para Vida](https://mpv.rancheirosmc.com.br/).
 
